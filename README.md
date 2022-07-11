@@ -33,9 +33,9 @@ I am characterized by empathy and assertive communication; I love working in a t
 Contact me:
 </h3>
 <p align="left">
- <a target="_blank" href="https://linkedin.com/in/arlesson-moura"><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" width="5.0%"/></a>
- <a target="_blank" href="mailto:arlessonmss@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/></a>
- <a target="_blank" href="https://api.whatsapp.com/send?phone=5581998909050"> <img src="https://img.icons8.com/officel/36/000000/whatsapp.png" width="3.5%"/></a>
+ <a target="_blank" href="https://linkedin.com/in/arlesson-moura"><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" width="5%"/></a>
+ <a target="_blank" href="mailto:arlessonmss@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="4%"/></a>
+ <a target="_blank" href="https://api.whatsapp.com/send?phone=5581998909050"> <img src="https://img.icons8.com/officel/36/000000/whatsapp.png" width="4%"/></a>
 </p>
 
 
