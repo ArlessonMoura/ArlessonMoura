@@ -1,7 +1,7 @@
 <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura, a Full Stack developer from Brazil.</h1>
 
 <p align="left">I've been learning software development since December 2020; I have experience as an Angular Front-end at Startup Fintech, I am open to work on new challenges.
-I am characterized by empathy and assertive communication; I love working in a team, and fixing my learning while teaching others.
+I am characterized by empathy and assertive communication; I love working in a team, and fixing my learning while teaching others.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -19,7 +19,7 @@ I am characterized by empathy and assertive communication; I love working in a t
 </p>
 <hr>
 
-<div>
+
 <div style="display: inline_block">
 <img height="160em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArlessonMoura&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact" alt="ArlessonMoura" />
 <img height="160em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArlessonMoura&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact"/>
