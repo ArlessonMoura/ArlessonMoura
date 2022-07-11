@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-<h3 align="left">Contact me:</h3><img src="" alt="contact me" width="40" height="40"/>
+<h3 align="left">
+<img src="img/call-me-body.webp" alt="contact me" width="40" height="40"/>
+Contact me:
+</h3>
 <p align="left">
  <a target="_blank" href="https://linkedin.com/in/arlesson-moura"><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" width="5.0%"/></a>
  <a target="_blank" href="mailto:arlessonmss@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/></a>
