@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left" style="color:green;">Hi 👋, I'm Arlesson Moura</h1>
+<h1 align="left" style="color:green;">Hi <img src="img/peace-face.webp" alt="contact me" width="70" height="70"/>, I'm Arlesson Moura</h1>
 <h3 align="left">A Full Stack developer from Brazil</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="left">
-<img src="img/call-me-body.webp" alt="contact me" width="40" height="40"/>
+<img src="img/call-me-body.webp" alt="contact me" width="70" height="70"/>
 Contact me:
 </h3>
 <p align="left">
