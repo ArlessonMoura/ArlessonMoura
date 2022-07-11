@@ -23,8 +23,8 @@ I am characterized by empathy and assertive communication; I love working in a t
 
 <div align="center">
   <a href="https://github.com/ArlessonMoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArlessonMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Arlesson Moura activies status"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArlessonMoura&layout=compact&langs_count=7&theme=dark" alt="Arlesson Moura Linguagens"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArlessonMoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Arlesson Moura activies status"/>
+  <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArlessonMoura&layout=compact&langs_count=7&theme=dark" alt="Arlesson Moura Linguagens"/>
 </div>
 <hr>
 
