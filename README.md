@@ -29,7 +29,7 @@ I am characterized by empathy and assertive communication; I love working in a t
 <hr>
 
 <h3 align="left">
-<img src="img/call-me-body.webp" alt="contact me" width="70" height="70"/>
+<img src="img/call-me.webp" alt="contact me" width="70" height="70"/>
 Contact me:
 </h3>
 <p align="left">
