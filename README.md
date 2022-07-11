@@ -21,8 +21,8 @@ I am characterized by empathy and assertive communication; I love working in a t
 
 
 <div style="display: inline_block">
-<img height="160em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArlessonMoura&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact" alt="ArlessonMoura" />
-<img height="160em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArlessonMoura&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact"/>
+<img height="100%" img width="48%" src="https://github-readme-stats.vercel.app/api?username=ArlessonMoura&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact" alt="ArlessonMoura" />
+<img height="100%" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArlessonMoura&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact"/>
 </div>
 <hr>
 
