@@ -40,13 +40,9 @@
     <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="img/docker.png" alt="docker" width="40" height="40"/> </a>
     <a title="Linux" href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer"> <img src="img/linux.png" alt="linux" width="40" height="40"/> </a>
-    <a title="Jira Management" href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira software" width="40" height="40"/> </a>
-    <a title="Slack" href="https://slack.com/intl/pt-br/" target="_blank" rel="noreferrer"> <img src="img/slack-icon.webp" alt="slack" width="40" height="40"/> </a>
-    <a title="Trello" href="https://trello.com" target="_blank" rel="noreferrer"> <img src="img/trello.png" alt="trello" width="40" height="40"/> </a>
   </p>
 </div>
 <hr>
-
 
 <div align="center">
   <a href="https://github.com/ArlessonMoura">
