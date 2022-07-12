@@ -9,15 +9,17 @@
   </h1>
   <details>
   <summary>I am from Brazil, based in the city of Recife</summary>
-    <p align="center">
+    <br>
+    <p align="left">
       Beyond a gorgeous place to live, full of histories, and one of most delicious culinary of Brazil... Recife is the biggest technology pole of Brazil. 
     </p>
-    <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" /> 
-    <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada2.jpg" />
-    <img width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
-    <img width="40%" alt="Street of Bom Jesus" src="img/rua-bom-jesus.jpg" /> 
+    <div align="center">
+      <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" /> 
+      <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada2.jpg" />
+      <img height="300" width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
+      <img height="300" width="40%" alt="Street of Bom Jesus" src="img/rua-bom-jesus.jpg" /> 
+    </div>    
   </details>
-
 
   <p align="left">I am graduated in Economics, and have Specialization degree in Project Management, I've been learning software development since December 2020; I have experience as an Angular Front-end at Startup Fintech, I am a junior developer looking for a job and new challenges.
   I am characterized by empathy and assertive communication; I love working in a team, and fixing my learning while teaching others.
