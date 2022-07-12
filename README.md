@@ -95,7 +95,7 @@
 <hr>
 
 <div>
-  <h3 align="left"><img src="img/call-me.webp" alt="contact me" width="90" height="90"/>
+  <h3 align="left"><img src="img/call-me.png" alt="contact me" width="90" height="90"/>
   Contact me:
   </h3>
   <p align="left">
