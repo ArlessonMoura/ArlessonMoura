@@ -72,7 +72,7 @@
       <img src="img/jest.png" alt="jest" width="55" height="55"/>
     </a> 
     <a title="Mocha" href="https://mochajs.org" target="_blank">
-      <img src="img/mocha.png" alt="mocha" width="50" height="50"/>
+      <img src="img/mocha.png" alt="mocha" width="55" height="55"/>
     </a>
     <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="img/python.png" alt="python" width="55" height="55"/>
