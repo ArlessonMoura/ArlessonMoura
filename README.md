@@ -95,12 +95,18 @@
 <hr>
 
 <div>
-  <h3 align="left"><img src="img/call-me.webp" alt="contact me" width="70" height="70"/>
+  <h3 align="left"><img src="img/call-me.webp" alt="contact me" width="90" height="90"/>
   Contact me:
   </h3>
   <p align="left">
-    <a target="_blank" href="https://linkedin.com/in/arlesson-moura"><img src="img/linkedin.png" width="5%"/></a>
-    <a target="_blank" href="mailto:arlessonmss@gmail.com"> <img src="img/gmail.png" width="4%"/></a>
-    <a target="_blank" href="https://api.whatsapp.com/send?phone=5581998909050"> <img src="img/whatsapp.png" width="4%"/></a>
+    <a target="_blank" href="https://linkedin.com/in/arlesson-moura">
+      <img src="img/linkedin.png" width="50" height="50"/>
+    </a>
+    <a target="_blank" href="mailto:arlessonmss@gmail.com">
+      <img src="img/gmail.png" width="50" height="50"/>
+    </a>
+    <a target="_blank" href="https://api.whatsapp.com/send?phone=5581998909050">
+      <img src="img/whatsapp.png" width="50" height="50"/>
+    </a>
   </p>
 </div>
