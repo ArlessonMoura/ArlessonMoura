@@ -1,4 +1,10 @@
 <div>
+  <p  align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ArlessonMoura" alt="visitor badge"/>       
+  </p>
+</div>
+
+<div>
   <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura a Full Stack developer Jr.
   </h1>
   <details>
