@@ -29,23 +29,60 @@
 <div>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
-    <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a title="HTML 5" href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer"> <img src="img/html5.png" alt="html 5" width="40" height="40"/> </a>
-    <a title="CSS 3" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="img/css3.png" alt="css3" width="40" height="40"/> </a>
-    <a title="React.JS" href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a title="Angular" href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="img/angular.png" alt="angular" width="40" height="40"/> </a>
-    <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="img/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
-    <a title="Node.JS" href="https://nodejs.org" target="_blank"> <img src="img/node-js.png" alt="nodejs" width="50" height="50"/> </a>
-    <a title="Express.JS" href="https://expressjs.com" target="_blank"> <img src="img/express.png" alt="express" width="40" height="40"/> </a>
-    <a title="MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="img/mongo-db.png" alt="mongodb" width="40" height="40"/> </a>
-    <a title="MySQL" href="https://www.mysql.com/" target="_blank"> <img src="img/my-sql.png" alt="mysql" width="40" height="40"/> </a>
-    <a title="Sequelize" href=" https://sequelize.org/master/index.html" target="_blank" rel="noreferrer"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/> </a>
-    <a title="Jest" href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-    <a title="Mocha" href="https://mochajs.org" target="_blank"> <img src="img/mocha.png" alt="mocha" width="40" height="40"/> </a>
-    <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="img/docker.png" alt="docker" width="40" height="40"/> </a>
-    <a title="Linux" href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer"> <img src="img/linux.png" alt="linux" width="40" height="40"/> </a>
+    <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="img/javascript.png" alt="javascript" width="40" height="40"/>
+    </a>
+    <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="img/typescript.png" alt="typescript" width="40" height="40"/>
+    </a>
+    <a title="HTML 5" href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer">
+      <img src="img/html52.png" alt="html 5" width="40" height="40"/>
+    </a>
+    <a title="CSS 3" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img src="img/css3.png" alt="css3" width="40" height="40"/>
+    </a>
+    <a title="React.JS" href="https://reactjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a title="Redux" href="https://redux.js.org/" target="_blank">
+      <img src="img/redux.png" alt="redux" width="40" height="40"/>
+    </a>
+    <a title="Angular" href="https://angular.io/" target="_blank" rel="noreferrer">
+      <img src="img/angular.png" alt="angular" width="40" height="40"/>
+    </a>
+    <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img src="img/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a title="Node.JS" href="https://nodejs.org" target="_blank">
+      <img src="img/node-js.png" alt="nodejs" width="50" height="50"/>
+    </a>
+    <a title="Express.JS" href="https://expressjs.com" target="_blank">
+      <img src="img/express.png" alt="express" width="40" height="40"/>
+    </a>
+    <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
+      <img src="img/mongo-db.png" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a title="MySQL" href="https://www.mysql.com/" target="_blank">
+      <img src="img/my-sql.png" alt="mysql" width="40" height="40"/>
+    </a>
+    <a title="Sequelize" href=" https://sequelize.org/master/index.html" target="_blank" rel="noreferrer">
+      <img src="img/sequelize.png" alt="sequelize" width="40" height="40"/>
+    </a>
+    <a title="Jest" href="https://jestjs.io" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+    </a> 
+    <a title="Mocha" href="https://mochajs.org" target="_blank">
+      <img src="img/mocha.png" alt="mocha" width="40" height="40"/>
+    </a>
+    <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="img/docker.png" alt="docker" width="40" height="40"/>
+    </a>
+    <a title="Linux" href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer">
+      <img src="img/linux.png" alt="linux" width="40" height="40"/>
+    </a>
   </p>
 </div>
 <hr>
