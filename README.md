@@ -14,7 +14,7 @@
     </p>
     <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" /> 
     <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada2.jpg" />
-    <img height="405" width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
+    <img width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
     <img width="40%" alt="Street of Bom Jesus" src="img/rua-bom-jesus.jpg" /> 
   </details>
 
