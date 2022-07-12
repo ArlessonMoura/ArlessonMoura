@@ -1,8 +1,8 @@
 <div>
-  <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura, a Full Stack developer from Brazil.
+  <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura a Full Stack developer Jr.
   </h1>
   <details>
-  <summary>(Live in the city of Recife)</summary>
+  <summary>I am from Brazil, based in the city of Recife</summary>
     <img align="center" width="80%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" />
     <hr> 
     <img align="center" width="80%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada2.jpg" /> 
@@ -19,11 +19,11 @@
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer"> <img src="img/html5.png" alt="html 5" width="50" height="50"/> </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="img/css3.png" alt="css3" width="50" height="50"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer"> <img src="img/html5.png" alt="html 5" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="img/css3.png" alt="css3" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="img/angular.png" alt="angular" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="img/node-js.png" alt="nodejs" width="45" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="img/node-js.png" alt="nodejs" width="50" height="50"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://images.tute.io/tute/topic/express-js.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="img/my-sql.png" alt="mysql" width="40" height="40"/> </a>
