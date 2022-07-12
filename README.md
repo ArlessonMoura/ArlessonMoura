@@ -45,7 +45,7 @@
       <img src="img/bootstrap.png" alt="bootstrap" width="50" height="50"/>
     </a>
     <a title="React.JS" href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+      <img src="img/react.png" alt="react" width="50" height="50"/>
     </a>
     <a title="Redux" href="https://redux.js.org/" target="_blank">
       <img src="img/redux.png" alt="redux" width="50" height="50"/>
@@ -69,7 +69,7 @@
       <img src="img/sequelize.png" alt="sequelize" width="50" height="50"/>
     </a>
     <a title="Jest" href="https://jestjs.io" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
+      <img src="img/jest.png" alt="jest" width="50" height="50"/>
     </a> 
     <a title="Mocha" href="https://mochajs.org" target="_blank">
       <img src="img/mocha.png" alt="mocha" width="50" height="50"/>
