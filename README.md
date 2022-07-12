@@ -75,7 +75,7 @@
       <img src="img/mocha.png" alt="mocha" width="50" height="50"/>
     </a>
     <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+      <img src="img/python.png" alt="python" width="50" height="50"/>
     </a>
     <a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="img/docker.png" alt="docker" width="50" height="50"/>
@@ -99,8 +99,8 @@
   Contact me:
   </h3>
   <p align="left">
-    <a target="_blank" href="https://linkedin.com/in/arlesson-moura"><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" width="5%"/></a>
-    <a target="_blank" href="mailto:arlessonmss@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="4%"/></a>
-    <a target="_blank" href="https://api.whatsapp.com/send?phone=5581998909050"> <img src="https://img.icons8.com/officel/36/000000/whatsapp.png" width="4%"/></a>
+    <a target="_blank" href="https://linkedin.com/in/arlesson-moura"><img src="img/linkedin.png" width="5%"/></a>
+    <a target="_blank" href="mailto:arlessonmss@gmail.com"> <img src="img/gmail.png" width="4%"/></a>
+    <a target="_blank" href="https://api.whatsapp.com/send?phone=5581998909050"> <img src="img/whatsapp.png" width="4%"/></a>
   </p>
 </div>
