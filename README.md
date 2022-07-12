@@ -36,10 +36,13 @@
       <img src="img/typescript.png" alt="typescript" width="40" height="40"/>
     </a>
     <a title="HTML 5" href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer">
-      <img src="img/html52.png" alt="html 5" width="40" height="40"/>
+      <img src="img/html5.png" alt="html 5" width="40" height="40"/>
     </a>
     <a title="CSS 3" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img src="img/css3.png" alt="css3" width="40" height="40"/>
+    </a>
+    <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img src="img/bootstrap.png" alt="bootstrap" width="40" height="40"/>
     </a>
     <a title="React.JS" href="https://reactjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -50,11 +53,8 @@
     <a title="Angular" href="https://angular.io/" target="_blank" rel="noreferrer">
       <img src="img/angular.png" alt="angular" width="40" height="40"/>
     </a>
-    <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img src="img/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-    </a>
     <a title="Node.JS" href="https://nodejs.org" target="_blank">
-      <img src="img/node-js.png" alt="nodejs" width="50" height="50"/>
+      <img src="img/node-js.png" alt="nodejs" width="40" height="40"/>
     </a>
     <a title="Express.JS" href="https://expressjs.com" target="_blank">
       <img src="img/express.png" alt="express" width="40" height="40"/>
