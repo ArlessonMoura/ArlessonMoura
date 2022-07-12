@@ -23,8 +23,9 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="img/css3.png" alt="css3" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="img/angular.png" alt="angular" width="40" height="40"/> </a>
+     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="img/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="img/node-js.png" alt="nodejs" width="50" height="50"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://images.tute.io/tute/topic/express-js.png" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="img/express.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="img/my-sql.png" alt="mysql" width="40" height="40"/> </a>
     <a href=" https://sequelize.org/master/index.html" target="_blank" rel="noreferrer"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/> </a>
