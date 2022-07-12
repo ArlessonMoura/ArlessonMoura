@@ -60,28 +60,28 @@
       <img src="img/express.png" alt="express" width="50" height="50"/>
     </a>
     <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
-      <img src="img/mongodb.png" alt="mongodb" width="50" height="50"/>
+      <img src="img/mongodb.png" alt="mongodb" width="50" height="60"/>
     </a>
     <a title="MySQL" href="https://www.mysql.com/" target="_blank">
       <img src="img/my-sql.png" alt="mysql" width="50" height="55"/>
     </a>
     <a title="Sequelize" href=" https://sequelize.org/master/index.html" target="_blank" rel="noreferrer">
-      <img src="img/sequelize.png" alt="sequelize" width="50" height="50"/>
+      <img src="img/sequelize.png" alt="sequelize" width="55" height="55"/>
     </a>
     <a title="Jest" href="https://jestjs.io" target="_blank">
-      <img src="img/jest.png" alt="jest" width="50" height="50"/>
+      <img src="img/jest.png" alt="jest" width="55" height="55"/>
     </a> 
     <a title="Mocha" href="https://mochajs.org" target="_blank">
       <img src="img/mocha.png" alt="mocha" width="50" height="50"/>
     </a>
     <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="img/python.png" alt="python" width="50" height="50"/>
+      <img src="img/python.png" alt="python" width="55" height="55"/>
     </a>
     <a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="img/docker.png" alt="docker" width="50" height="50"/>
+      <img src="img/docker.png" alt="docker" width="55" height="55"/>
     </a>
     <a title="Linux" href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer">
-      <img src="img/linux.png" alt="linux" width="50" height="50"/>
+      <img src="img/linux.png" alt="linux" width="55" height="55"/>
     </a>
   </p>
 </div>
