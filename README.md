@@ -31,7 +31,7 @@
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
     <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="img/docker.png" alt="docker" width="40" height="40"/> </a>
      <a href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer"> <img src="img/linux.png" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira software" width="40" height="40"/> </a>
     <a href="https://slack.com/intl/pt-br/" target="_blank" rel="noreferrer"> <img src="img/slack-icon.webp" alt="slack" width="40" height="40"/> </a>
