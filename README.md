@@ -4,8 +4,6 @@
   </p>
 </div>
 
-<img alt="template" src="img/template.png" width="100%">
-
 <div>
   <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura a Full Stack developer Jr.
   </h1>
