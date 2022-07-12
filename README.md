@@ -60,7 +60,7 @@
       <img src="img/express.png" alt="express" width="50" height="50"/>
     </a>
     <a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
-      <img src="img/mongo-db.png" alt="mongodb" width="50" height="50"/>
+      <img src="img/mongodb.png" alt="mongodb" width="50" height="50"/>
     </a>
     <a title="MySQL" href="https://www.mysql.com/" target="_blank">
       <img src="img/my-sql.png" alt="mysql" width="50" height="50"/>
