@@ -1,15 +1,15 @@
 <div>
   <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura, a Full Stack developer from Brazil.
-    <details>
-      <summary>(Live in the city of Recife)</summary>
-      <img align="center" width="80%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" />
-      <hr> 
-      <img align="center" width="80%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada2.jpg" /> 
-    </details>
   </h1>
+  <details>
+  <summary>(Live in the city of Recife)</summary>
+    <img align="center" width="80%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" />
+    <hr> 
+    <img align="center" width="80%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada2.jpg" /> 
+  </details>
 
 
-  <p align="left">I am graduated Economics, and have Specialization degree in Project Management, I've been learning software development since December 2020; I have experience as an Angular Front-end at Startup Fintech, I am a junior developer looking for a job and new challenges.
+  <p align="left">I am graduated in Economics, and have Specialization degree in Project Management, I've been learning software development since December 2020; I have experience as an Angular Front-end at Startup Fintech, I am a junior developer looking for a job and new challenges.
   I am characterized by empathy and assertive communication; I love working in a team, and fixing my learning while teaching others.
   </p>
 </div>
