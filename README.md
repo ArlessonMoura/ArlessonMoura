@@ -80,6 +80,9 @@
     <a title="Docker" href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="img/docker.png" alt="docker" width="55" height="55"/>
     </a>
+    <a title="heroku" href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+      <img src="img/heroku.png" alt="heroku" width="50" height="50"/>
+    </a>
     <a title="Linux" href="https://www.gnu.org/distros/free-distros.html" target="_blank" rel="noreferrer">
       <img src="img/linux.png" alt="linux" width="55" height="55"/>
     </a>
