@@ -99,11 +99,15 @@
 </div>
 <hr>
 
-<div>
-  <h3 align="left"><img src="img/call-me.png" alt="contact me" width="90" height="90"/>
-  Contact me:
-  </h3>
-  <p align="left">
+<div align="center">  
+  <div align="center">
+    <img src="img/call-me.png" alt="contact me" width="90" height="90"/>
+    <h3 align="left">
+    Contact me:
+    </h3>
+  </div>
+  
+  <p align="center">
     <a target="_blank" href="https://linkedin.com/in/arlesson-moura">
       <img src="img/linkedin.png" width="50" height="50"/>
     </a>
