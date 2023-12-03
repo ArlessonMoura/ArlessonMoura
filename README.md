@@ -102,7 +102,7 @@
 <div align="center">  
   <div align="center">
     <img src="img/call-me.png" alt="contact me" width="90" height="90"/>
-    <h3 align="left">
+    <h3 align="center">
     Contact me:
     </h3>
   </div>
