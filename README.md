@@ -32,7 +32,7 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="img/javascript.png" alt="javascript" width="50" height="50"/>
+      <img src="https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png" alt="javascript" width="50" height="50"/>
     </a>
     <a title="Typescript" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="img/typescript.png" alt="typescript" width="50" height="50"/>
