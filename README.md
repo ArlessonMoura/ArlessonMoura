@@ -1,28 +1,30 @@
 <div>
   <p  align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ArlessonMoura" alt="visitor badge"/>       
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ArlessonMoura" alt="visitor badge"/>
   </p>
 </div>
 
 <div>
-  <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura a Full Stack developer Jr.
+  <h1 align="left" style="color:green;">Hi <img src="img/peace-face.png" alt="peace face" width="60" height="70"/>, I'm Arlesson Moura a Full Stack developer.
   </h1>
   <details>
   <summary>I am from Brazil, based in the city of Recife</summary>
     <br>
     <p align="left">
-      Beyond a gorgeous place to live, full of histories, and one of most delicious culinary of Brazil... Recife is the biggest technology pole of Brazil. 
+      Beyond being a stunning place to live, rich in history, and home to one of the most delicious cuisines in Brazil, Recife is also the country's largest technology hub.
     </p>
     <div align="center">
-      <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" /> 
+      <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada.jpg" />
       <img width="40%" alt="Beach of Boa Viagem's neighborhood" src="img/pasárgada2.jpg" />
       <img height="300" width="40%" alt="Landmark 0 of the city" src="img/Recife-Marco-Zero.webp" />
-      <img height="300" width="40%" alt="Street of Bom Jesus" src="img/rua-bom-jesus.jpg" /> 
-    </div>    
+      <img height="300" width="40%" alt="Street of Bom Jesus" src="img/rua-bom-jesus.jpg" />
+    </div>
   </details>
 
-  <p align="left">I am graduated in Economics, and have Specialization degree in Project Management, I've been learning software development since December 2020; I have experience as an Angular Front-end at Startup Fintech, I am a junior developer looking for a job and new challenges.
-  I am characterized by empathy and assertive communication; I love working in a team, and fixing my learning while teaching others.
+  <p align="left">
+    I hold a degree in Economics and have an MBA in Project Management. Since December 2020, I have been actively learning software development. I am a professional with front-end experience in JavaScript/TypeScript, Angular and React; I am well-versed in Agile Methodologies. Additionally, I have received full-stack training, covering React/Angular, JavaScript, Node, Docker, NX, PHP, Laravel, PostgreSQL, MySQL, MongoDB, and Unit/Integration Testing.
+    <br>
+    I emphasize my extensive familiarity with teamwork, always using empathy to understand and validate the feelings and ambitions of my team.
   </p>
 </div>
 
@@ -70,7 +72,7 @@
     </a>
     <a title="Jest" href="https://jestjs.io" target="_blank">
       <img src="img/jest.png" alt="jest" width="55" height="55"/>
-    </a> 
+    </a>
     <a title="Mocha" href="https://mochajs.org" target="_blank">
       <img src="img/mocha.png" alt="mocha" width="55" height="55"/>
     </a>
