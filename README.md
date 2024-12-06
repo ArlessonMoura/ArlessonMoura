@@ -118,4 +118,8 @@
       <img src="img/whatsapp.png" width="50" height="50"/>
     </a>
   </p>
+
+  <img src="https://raw.githubusercontent.com/ArlessonMoura/ArlessonMoura/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
