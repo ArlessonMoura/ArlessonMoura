@@ -99,6 +99,12 @@
 </div>
 <hr>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">  
   <div align="center">
     <img src="img/call-me.png" alt="contact me" width="90" height="90"/>
@@ -119,7 +125,6 @@
     </a>
   </p>
 
-  <img src="https://raw.githubusercontent.com/ArlessonMoura/ArlessonMoura/output/snake.svg" alt="Snake animation" />
 
 ###
 </div>
